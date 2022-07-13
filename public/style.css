@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(81, 0, 255);
+}
+.home{
+    padding: 2rem;
+}
+.entry{
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: yellow;
+    border: 1rem;
+    border-radius: 10px;
+    font-family: Lorem ipsum dolor sit amet;
+}
